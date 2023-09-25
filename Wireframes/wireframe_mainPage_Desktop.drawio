@@ -1,0 +1,223 @@
+<mxfile host="app.diagrams.net" modified="2023-09-18T07:20:54.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="hdU_SL7jzZA4ufVAa1XW" version="21.7.5" type="device">
+  <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
+    <mxGraphModel dx="2787" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1021.5" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-1" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;comic=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="20" width="1060" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-2" value="LOGO" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-9" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="120" width="1060" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-15" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=top;spacing=10;comic=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="680" width="1020" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-16" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=default;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;fillColor=default;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="200" width="1020" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-4" value="Konto" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=18;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="210" y="137.5" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-7" value="Über uns" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="70" y="690" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-8" value="AGB" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="680" y="690" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-9" value="Impressum" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="950" y="690" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-10" value="Ansprechpartner" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="339" y="690" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-11" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.multiButton;fillColor=#000000;strokeColor=#666666;mainText=;subText=;" vertex="1" parent="1">
+          <mxGeometry x="900" y="60" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-12" value="LOGOUT" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.anchor;fontSize=16;fontColor=#ffffff;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="LgNa74KXyd6v0-ToaAEt-11">
+          <mxGeometry y="15" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-13" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.anchor;fontSize=12;fontColor=#ffffff;fontStyle=1;whiteSpace=wrap;fillColor=#000000;" vertex="1" parent="LgNa74KXyd6v0-ToaAEt-11">
+          <mxGeometry y="30" width="150" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="677b7b8949515195-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="190" as="sourcePoint" />
+            <mxPoint x="70" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-15" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="170" width="1060" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-16" value="Kontakt" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=18;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="369" y="137.5" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-17" value="Neuigkeiten" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=18;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="780" y="137.5" width="90" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-19" value="Beschreibung&lt;br&gt;Hauptseite&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="20" width="270" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-20" value="- Logo permanent, klick auf Logo führt zur Hauptseite&lt;br&gt;&lt;br&gt;- aktiver Bereich markiert" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=18;align=left;comic=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="110" width="270" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="677b7b8949515195-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="90" as="sourcePoint" />
+            <mxPoint x="50" y="62.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-42" y="152.5" as="sourcePoint" />
+            <mxPoint x="108" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-24" value="Stand: 18.09.2023" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=18;align=center;comic=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="780" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-27" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.mail2;" vertex="1" parent="1">
+          <mxGeometry x="344" y="143.5" width="25" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-28" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="202" y="139.5" width="18" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-30" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.email;" vertex="1" parent="1">
+          <mxGeometry x="737" y="141" width="28" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-35" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="910" width="1060" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-36" value="LOGO" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="930" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-37" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="1010" width="1060" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-38" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=top;spacing=10;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1570" width="1020" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-40" value="Konto" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=18;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="245" y="1027.5" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-41" value="Über uns" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="75" y="1580" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-42" value="AGB" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="685" y="1580" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-43" value="Impressum" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="955" y="1580" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-44" value="Ansprechpartner" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="344" y="1580" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-45" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.multiButton;fillColor=#000000;strokeColor=#666666;mainText=;subText=;" vertex="1" parent="1">
+          <mxGeometry x="905" y="950" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-46" value="LOGOUT" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.anchor;fontSize=16;fontColor=#ffffff;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="LgNa74KXyd6v0-ToaAEt-45">
+          <mxGeometry y="15" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-47" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.anchor;fontSize=12;fontColor=#ffffff;fontStyle=1;whiteSpace=wrap;fillColor=#000000;" vertex="1" parent="LgNa74KXyd6v0-ToaAEt-45">
+          <mxGeometry y="30" width="150" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-48" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="LgNa74KXyd6v0-ToaAEt-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="25" y="1080" as="sourcePoint" />
+            <mxPoint x="75" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-49" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="1060" width="1060" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-50" value="Kontakt" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=18;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="485" y="1027.5" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-51" value="Neuigkeiten" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=18;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="780" y="1027.5" width="90" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-52" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.mail2;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1034.5" width="25" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-53" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1028.5" width="18" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-54" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.email;" vertex="1" parent="1">
+          <mxGeometry x="741" y="1031" width="28" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-56" value="Beschreibung&lt;br&gt;Konto" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="910" width="270" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-57" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=18;align=left;comic=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="1000" width="270" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-58" value="Stand: 18.09.2023" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=18;align=center;comic=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="1670" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-62" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1090" width="1015" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-63" value="Vorname" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1174" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-64" value="Nachname" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1219" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-65" value="Ansprache" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1130" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-66" value="Ort" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1308" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-67" value="PLZ" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1352" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-68" value="Straße" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1396" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-69" value="Tel.:" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1441" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-70" value="E-Mail" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1263" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-72" value="Herr" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="248" y="1130" width="332" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-73" value="Max&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="248" y="1174" width="332" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-74" value="Mustermann" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="248" y="1219" width="332" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-75" value="Max.Mustermann@example.de" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="248" y="1263" width="332" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-76" value="Nordhorn" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="248" y="1308" width="332" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-77" value="12345" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="248" y="1352" width="332" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-78" value="Examplestreet 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="248" y="1396" width="332" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-79" value="12345 / 6789" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="248" y="1441" width="332" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-82" value="Solarmodule" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=18;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="550" y="137.5" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LgNa74KXyd6v0-ToaAEt-83" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;" vertex="1" parent="1">
+          <mxGeometry x="505" y="141" width="25" height="18" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
